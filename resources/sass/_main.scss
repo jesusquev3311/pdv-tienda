@@ -30,7 +30,7 @@
 //Products style
 .product-item{
     position: relative;
-    //border: 1px solid #ededed;
+    min-height: 400px;
     padding: 0 0 20px 20px;
     box-shadow: 0px 10px 8px 0px rgba(0,0,0,0.3);
     .discount{

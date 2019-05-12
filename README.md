@@ -41,3 +41,12 @@ Laravel Products API
 </ul>
 
 <img src="https://lh3.googleusercontent.com/-_6td7Qsezi0/XNd2XS0cNQI/AAAAAAAAFJI/FfIiV4ZBwEk0xZLFgf1eWmwkqDRSv4l7QCK8BGAs/s0/2019-05-11.png">
+
+
+<h2>Front End Deployment</h2>
+
+<ul>
+  <li>after running php artisan serve, in anoter terminal tab run npm install</li>
+  <li>after dependencies installations run npm run dev or npm run watch to compile js and css</li>
+  <li>Please use the new database schema that is in database-backup named dvp_database-front</li>
+</ul>

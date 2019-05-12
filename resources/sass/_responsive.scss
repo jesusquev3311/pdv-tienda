@@ -1,0 +1,13 @@
+//mobile
+@media screen and (max-width:580px){
+    .product-item{
+        .discount{
+          left:0;
+        }
+    }
+
+    header .row .main-nav li a{
+        font-size: 14px;
+        margin: 0 10px;
+    }
+}

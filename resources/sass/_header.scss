@@ -1,0 +1,28 @@
+header{
+    padding: 60px 0;
+    display: block;
+    .row{
+        align-items: center;
+        .logo{
+            max-height: 80px;
+        }
+        .main-nav{
+            li{
+                a{
+                    text-decoration: none;
+                    font-size:28px;
+                    color:#b3b3b3;
+                    line-height: 35px;
+                    padding-bottom: 30px;
+                    margin: 0 20px;
+                    position: relative;
+                    &:hover{
+                        color: #00b4ad;
+                        border-bottom: 2px solid #00b4ad;
+                    }
+                }
+            }
+        }
+    }
+
+}
